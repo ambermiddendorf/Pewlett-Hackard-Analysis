@@ -1,0 +1,10 @@
+dept_no,dept_name,retiring_count,mentor_count,department_count,retiring_perc
+d001,Marketing,2199,222,14842,14.82
+d002,Finance,1908,150,12437,15.34
+d003,Human Resources,1953,205,12898,15.14
+d004,Production,8174,645,53304,15.33
+d005,Development,9281,778,61386,15.12
+d006,Quality Management,2234,179,14546,15.36
+d007,Sales,5860,492,37701,15.54
+d008,Research,2413,217,15441,15.63
+d009,Customer Service,2597,237,17569,14.78
